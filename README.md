@@ -1,10 +1,10 @@
 
 - 👋 Hi, I’m @Pooria-Entehaz
-         - 👀 I’m interested in programming
-                - 💞️ I like (termux-hacking & Network)
-                        - 📫 How to reach me ...?  Gmail, Telegram...
-                                - 🌱 I’m currently learning programming (Python,JavaScript,CSS)
-                                        - ⚡ Fun Fact: Zu diesem Thema gibt es immer etwas Neues zu lernen.
+- 👀 I’m interested in programming
+- 💞️ I like (termux-hacking & Network)
+- 📫 How to reach me ...?  Gmail, Telegram...
+- 🌱 I’m currently learning programming (Python,JavaScript,CSS)
+- ⚡ Fun Fact: Zu diesem Thema gibt es immer etwas Neues zu lernen.
 
                                         
 <!---
